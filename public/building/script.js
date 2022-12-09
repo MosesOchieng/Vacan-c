@@ -61,7 +61,7 @@ $(document).ready(function() {
 					$('div.modal-body').append('Row index: '+dtRow[0].rowIndex+'<br/>');
 					$('div.modal-body').append('Number of columns: '+dtRow[0].cells.length+'<br/>');
 					for(var i=0; i < dtRow[0].cells.length; i++){
-						$('div.modal-body').append('Cell (column, row) '+dtRow[0].cells[i]._DT_CellIndex.column+', '+dtRow[0].cells[i]._DT_CellIndex.row+' => innerHTML : '+dtRow[0].cells[i].innerHTML+'<br/>');
+						$('div.modal-body').append('Cell (column, row) '+dtRow[0].cells[i]._DT_CellIndex.column+', '+dtRow[0].cells[i]._DT_CellIndex.row+' => Vacan-C : '+dtRow[0].cells[i].innerHTML+'<br/>');
 					}
 					$('#myModal').modal('show');
 				});
@@ -87,7 +87,7 @@ $(document).ready(function() {
 			$('div.modal-body').append('House Number Selected: '+dtRow[0].rowIndex+'<br/>');
 			$('div.modal-body').append('Information across : '+dtRow[0].cells.length+'<br/>');
 			for(var i=0; i < dtRow[0].cells.length; i++){
-				$('div.modal-body').append('Cell (column, row) '+dtRow[0].cells[i]._DT_CellIndex.column+', '+dtRow[0].cells[i]._DT_CellIndex.row+' => Shamba Ride : '+dtRow[0].cells[i].innerHTML+'<br/>');
+				$('div.modal-body').append('Cell (column, row) '+dtRow[0].cells[i]._DT_CellIndex.column+', '+dtRow[0].cells[i]._DT_CellIndex.row+' => Vacan-C : '+dtRow[0].cells[i].innerHTML+'<br/>');
 			}
 			$('#myModal').modal('show');
 		});

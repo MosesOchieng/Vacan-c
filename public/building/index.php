@@ -48,33 +48,6 @@
 
 </head>
 <body>
-<div id="colorlib-page">
-		<a href="#" class="js-colorlib-nav-toggle colorlib-nav-toggle"><i></i></a>
-		<aside id="colorlib-aside" role="complementary" class="border js-fullheight">
-			<img src="./images/vacancy1.png" width="180px">
-			<nav id="colorlib-main-menu" role="navigation">
-				<ul>
-					<li class="colorlib-active"><a href="index.php">Home</a></li>
-					<li><a href="building/index.php">Find Rentals</a></li>
-					<li><a href="locate/index.php">List rentals</a></li>
-					<li><a href="about.php">About</a></li>
-					<li><a href="contact.html">Contact</a></li>
-				</ul>
-			</nav>
-
-			<div class="colorlib-footer">
-				<p><small>&copy; <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-Copyright &copy;<script>document.write(new Date().getFullYear());</script>| Vacan-C<i class="icon-heart" aria-hidden="true"></i>| All Rights Reserved <a href="#" target="_blank"></a>  <a href="#" target="_blank"></a>
-<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --> </span> <span><a href="#" target="_blank"></a></span></small></p>
-				<ul>
-					<li><a href="#"><i class="icon-facebook2"></i></a></li>
-					<li><a href="#"><i class="icon-twitter2"></i></a></li>
-					<li><a href="#"><i class="icon-instagram"></i></a></li>
-					<li><a href="#"><i class="icon-linkedin2"></i></a></li>
-				</ul>
-			</div>
-
-		</aside>
 <!-- partial:index.partial.html -->
 <div class="alert alert-danger" role="alert"><strong>Info!</strong> Book or get more information about a home or house by clicking on the blue pencil below.Delete a house from your Dashboard  by clicking the x red button.</div>
 <a class="btn btn-success" style="float:left;margin-right:20px;" href="#" target="_blank">Refresh Page</a>
@@ -155,7 +128,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script>| Vaca
 		<tr>
 			<td>5</td>
 			<td>Gateway Buildings</td>
-			<td>Apartments residentials.</td>
+			<td>AparFlexsliderFlexsliderFlexslidertments residentials.</td>
 			<td>Single rooms</td>
 			<td>4100 + Deposit</td>
 			<td>
