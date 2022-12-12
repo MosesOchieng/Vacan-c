@@ -1,6 +1,6 @@
-# Shamba Ride (housingproject).
+# Vacan-C (housingproject).
 
-https://shambaride.herokuapp.com.
+h
 
 Application workability.
 
